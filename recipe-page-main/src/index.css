@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Roboto:ital,wght@0,100..900;1,100..900&family=Young+Serif&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Young Serif";
+}
+
+#parent{
+  padding-top: 30px;
+}
+
+#main{
+  padding-top: 50px;
+}
+
+@theme {
+  --color-kanisferi:#f3e5d8;
+  --font-young:"Young Serif";
+  --color-x:#fff7fc;
+}
+
